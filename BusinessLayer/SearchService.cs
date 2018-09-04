@@ -2,7 +2,7 @@
 
 namespace BusinessLayer
 {
-    public class SearchWorkflow : ISearchWorkflow
+    public class SearchService : ISearchSearch
     {
     }
 }
