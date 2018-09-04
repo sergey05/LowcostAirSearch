@@ -1,6 +1,6 @@
 ﻿namespace BusinessLayer
 {
-    public interface ISearchWorkflow
+    public interface ISearchSearch
     {
     }
 }
